@@ -1,4 +1,4 @@
-FROM savonet/liquidsoap-alpine:v2.0.0
+FROM savonet/liquidsoap-alpine:v2.1.4
 
 USER root
 RUN apk add --no-cache icecast supervisor
