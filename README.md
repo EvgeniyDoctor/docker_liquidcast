@@ -3,7 +3,7 @@ Liquidsoap and Icecast together in one docker image based on Alpine.<br>
 The size of the downloaded image is 267 Mb.
 
 Latest:
-- Liquidsoap: 2.1.4
+- Liquidsoap: 2.2.1
 - Icecast: 2.4.4
 
 This image based on savonet/liquidsoap-alpine:
